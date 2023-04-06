@@ -12,10 +12,16 @@
 1. Clone the repository
 
 ```bash
-git clone https://github.com/username/repository.git
+git clone https://github.com/Rahul27032000/Node_Redis.git
 ```
 
-2. Install dependencies
+2. change directory
+
+```bash
+cd Node_Redis
+```
+
+3. Install dependencies
 
 ```javascript
 npm install
